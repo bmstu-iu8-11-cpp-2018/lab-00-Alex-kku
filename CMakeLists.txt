@@ -11,7 +11,7 @@ set(CMAKE_CXX_FLAGS
 
 
 # enum your files
-add_executable(executable
+add_executable(executable Helloworld.cpp
 
 )
 find_package (Threads)
